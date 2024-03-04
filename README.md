@@ -275,9 +275,9 @@ with `dependsOn` we tell Flux to create the infrastructure items before deployin
 Fork this repository on your personal GitHub account and export your GitHub access token, username and repo name:
 
 ```sh
-export GITHUB_TOKEN=<your-token>
-export GITHUB_USER=<your-username>
-export GITHUB_REPO=<repository-name>
+export GITHUB_TOKEN=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
+export GITHUB_USER=mvrabel  
+export GITHUB_REPO=flux2-kustomize-helm-example
 ```
 
 Verify that your staging cluster satisfies the prerequisites with:
