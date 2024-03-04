@@ -4,9 +4,9 @@ metadata:
   name: podinfo
   namespace: podinfo
 spec:
-  chart:
-    spec:
-      version: ">=1.0.0-alpha"
+#  chart:
+#    spec:
+#      version: ">=1.0.0-alpha"
   test:
     enable: false
   values:
